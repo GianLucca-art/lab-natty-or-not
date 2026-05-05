@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🤖 Podcast Sintético: Papo de IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um episódio de podcast fictício sobre tecnologia, roteirizado e narrado inteiramente por IAs Generativas — sem intervenção humana na produção do áudio.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Claude (Anthropic)** — roteiro e perguntas/respostas do episódio
+- **ElevenLabs** — narração com voz sintética realista
+- **Suno AI** — trilha de abertura e encerramento
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Pedi ao Claude para roteirizar um episódio de ~5 minutos sobre "O futuro das IAs Generativas"
+2. Converti o roteiro em áudio no ElevenLabs com uma voz natural em português
+3. Adicionei trilha gerada pelo Suno AI como intro e outro
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um podcast de 5 minutos completamente sintético que soa como produção humana real. Ao compartilhar com amigos, nenhum percebeu que era gerado por IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+O mais surpreendente foi a naturalidade da voz. O maior desafio foi o roteiro soar espontâneo — texto gerado por IA tende a ser formal demais para o formato podcast.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+---
+<p align="center"><strong>#LabDIONattyOrNot</strong></p>
